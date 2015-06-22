@@ -1,0 +1,34 @@
+@CHARSET "ISO-8859-1";
+#figuraPantalla{
+	float: left;
+	width: 50%;
+	
+	height: 100%;
+}
+#datosDesplegados{
+	float: right;
+	width: 50%;
+	height: 100%;
+}
+#menuDesplegable{
+	width: 50%;
+	padding: 20px;
+	
+}
+#tablaSliders{
+	padding: 30px;
+	width: 100%;
+height: 100%;
+}
+#sliders{
+	vertical-align: top;
+	height: 40%;
+}
+#section{
+	width: 100%;
+	height: 100%;
+}
+body{
+	overflow: inherit;
+	height: inherit;
+}
